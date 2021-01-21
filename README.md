@@ -46,7 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/templatemo-style.css" />
-    <title>Mini Profile - Free Bootstrap CSS Template</title>
+    <title>Welbert Vieira - Escritório de advocacia</title>
     
 <!--
 Mini Profile Template
