@@ -80,10 +80,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-left">
                 <h2 class="tm-welcome-title">Welcome to Mini Profile Page</h2>
                 <p class="pb-0">
-                  This is Bootstrap v4.3.1 parallax layout for you. Credit goes to <a rel="nofollow" href="https://www.pexels.com">Pexels</a> for 2 background images. In
-                  odio sapien, commodo id ullamcorper ac, dignissim at sapien.
-                  Nullam leo massa, vaius ac massa et, tincidunt imperdiet
-                turpis. </p>
+                  Testando publicação de site no github pagees. </p>
               </div>
             </div>
             <!-- Brown bg -->
@@ -91,7 +88,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-right">
                 <i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i>
                 <p class="mb-0">
-                  Please spread a word about templatemo website. Anyone can download free Bootstrap CSS templates.
+                  testando pagina simples welbert vieira.
                 </p>
               </div>
             </div>
